@@ -1,0 +1,27 @@
+.sample-collection {
+  padding: 10px;
+
+
+  .item-card .MuiSvgIcon-root {
+    font-size: 40px;
+    padding: 10px;
+    border-radius: 50%;
+    background: rgba(#000, 0.1);
+    color: rgba(#000, 0.4);
+    margin-bottom: 8px;
+  }
+
+  .note-card {
+    .summary {
+      font-weight: 500;
+      font-size: 14px;
+      margin-bottom: 8px;
+    }
+
+    .created {
+      font-size: 12px;
+      font-weight: 300;
+      color: rgba(#000, 0.6);
+    }
+  }
+}

@@ -1,0 +1,19 @@
+.main {
+  height: 100%;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+
+  .pf-header {
+    flex: none;
+  }
+
+  .pf-header + div {
+    flex: 1;
+    overflow: auto;
+  }
+
+  .custom-font > * {
+    font-family: Poppins;
+  }
+}

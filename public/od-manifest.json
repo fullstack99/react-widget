@@ -1,0 +1,23 @@
+{
+  "title": "React Widget Demo",
+  "version": "1.1.7",
+  "iconImage": "widget-ico.png",
+  "permissions": [],
+  "app": {
+    "tag": null,
+    "bootstrapModule": null
+  },
+  "widgets": [
+    {
+      "tag": "react-widget-demo",
+      "title": "React Widget Demo",
+      "bootstrapModule": "react-widget-demo.js",
+      "iconImage": "widget-ico.png",
+      "descriptionFull": "React Widget Demo",
+      "descriptionShort": "React Widget Demo",
+      "customId": "1"
+    }
+  ],
+  "apiCalls": [],
+  "description": "React Widget Demo"
+}
